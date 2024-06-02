@@ -1,7 +1,5 @@
 ## CSAI PROJECT
 ### Spring 2024
-### Team-CogniTitans
-#### Rudransh Agarwal (2021101033), Akshit Sharma (2021101029)
 
 Files included:
 - GAN.py: Code for training of GAN model
