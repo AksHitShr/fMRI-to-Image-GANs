@@ -1,5 +1,4 @@
-## CSAI PROJECT
-### Spring 2024
+## Project Title: fMRI to Image Reconstruction using GANs
 
 Files included:
 - GAN.py: Code for training of GAN model
